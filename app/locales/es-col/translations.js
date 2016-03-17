@@ -431,7 +431,7 @@ export default {
   "pageheader.download": "Acerca de los datos",
   "pageheader.graph_builder_link": "Graficador",
   "pageheader.profile_link": "Perfil",
-  "pageheader.rankings": "Rankings",
+  "pageheader.rankings": "Hello world 2",
   "pageheader.search_link": "Buscar",
   "pageheader.search_placeholder": "Busque un lugar, producto o sector",
   "pageheader.search_placeholder.industry": "Busque un sector",
